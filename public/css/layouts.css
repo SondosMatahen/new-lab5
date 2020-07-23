@@ -1,0 +1,85 @@
+header{
+text-align: center;
+}
+h1{
+color: rgb(55, 9, 73);
+text-align: center;
+font-size: 300%;
+margin: 20px;
+margin-top: 50px;
+font-family: 'Lobster', cursive;
+
+}
+select{
+    
+   
+    color: crimson;
+    font-family: 'Lobster', cursive;
+
+}
+
+footer{
+    clear: both;
+    font-size: large;
+    font-family: 'Lobster', cursive;
+}
+
+label , input , legend {
+  
+    font-family: 'Lobster', cursive;
+}
+
+nav{
+    display: flex;
+    justify-content: flex-end;
+    margin: 70px;
+    margin-right: 200px;
+    margin-bottom: 20px;
+}
+#page1 , #page2{
+    margin-right: 30px;
+    
+    color: darkgray;
+    border-radius: 20%;
+    width: 100px;
+    height: 30px;
+    font-size: 120%;
+    background-color:rgb(97, 81, 81) ;
+    margin: 50px;
+    
+
+}
+
+#nav1{
+    display: flex;
+    margin: 50px; 
+    flex-wrap: wrap; 
+    justify-content: space-between; 
+}
+ #firstdiv{
+   display: flex;
+    margin: 50px;
+    
+   
+}
+
+#firstdiv legend{
+margin-right: 50px; 
+ }
+#secdiv {
+    border-radius: 3%;
+    border:1px rgb(120, 138, 120) solid;
+    width: 250px;
+    text-align: center;
+   justify-content: center;
+   margin: auto;
+   margin-bottom: 20px;
+ 
+}
+#secdiv legend{
+   margin: 20px;
+   
+} 
+.sort{
+    margin-bottom: 20px;
+}
