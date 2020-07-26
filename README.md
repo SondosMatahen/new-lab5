@@ -15,10 +15,14 @@ Actual time needed to complete: 2:30 hours
 
 Number and name of feature: Feature #2: Add functionality
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 2 hours
 
-Start time: _____
+Start time: 5 pm
 
-Finish time: _____
+Finish time: 6: 30
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1:30
+
+
+
+heroku link (https://newonel.herokuapp.com/)
